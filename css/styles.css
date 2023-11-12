@@ -42,11 +42,11 @@ ul {
   font-style: normal;
   font-weight: 700;
   line-height: 1.17;
-  letter-spacing: 0.54px;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.page-logo span {
+.page-logo .second {
   color: #2e2f42;
 }
 .menu-link {
@@ -116,7 +116,7 @@ ul {
 .page-footer {
   background-color: #2e2f42;
 }
-.page-footer .page-logo span {
+.page-footer .page-logo .second {
   color: #f4f4fd;
 }
 
